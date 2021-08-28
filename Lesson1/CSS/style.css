@@ -1,0 +1,124 @@
+
+body{
+    width: 1110px;
+    position: relative;
+    margin: 0;
+}
+.container{
+    font-family: Manrope;
+    font-style: normal;
+    color: #18191F;
+}
+h2{
+    position: relative;
+    width: 730px;
+    height: 64px;
+    left: 165px;
+    top: 80px;
+    margin: 48px 0px;
+    
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 64px;
+}
+h4{
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 40px;
+    margin: 8px 0px;
+}
+p{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    margin: 8px 0px;
+}
+.projects{
+    position: static;
+    width: 1110px; 
+    margin: 192px 165px 80px 165px;
+}
+.PD_1,.PD_2, .PD_3, .PD_4, .PD_5, .PD_6{
+    padding: 0px;
+    width: 302px;
+    height: 76px;
+    margin: 0 auto;
+}
+.Project1{
+    position: absolute;
+    width: 350px;
+    height: 630px;
+    left: 165px;
+    top: 192px;
+}
+.Project2{
+    position: absolute;
+    width: 730px;
+    height: 300px;
+    left: 545px;
+    top: 192px;
+}
+.Project3{
+    position: absolute;
+    width: 350px;
+    height: 300px;
+    left: 545px;
+    top: 522px;
+}
+.Project4{
+    position: absolute;
+    width: 350px;
+    height: 630px;
+    left: 925px;
+    top: 522px;
+}
+.Project5{
+    position: absolute;
+    width: 730px;
+    height: 630px;
+    left: 165px;
+    top: 852px;
+}
+.Project6{
+    position: absolute;
+    width: 350px;
+    height: 300px;
+    left: 925px;
+    top: 1182px;
+}
+.PD_1{
+    position: absolute;
+    left: 189px;
+    top: 224px;
+    bottom: 1262px;
+}
+.PD_2{
+    position: absolute;
+    left: 569px;
+    top: 216px;
+    bottom: 1270px;
+}
+.PD_3{
+    position: absolute;
+    left: 569px;
+    top: 546px;
+    bottom: 940px;
+}
+.PD_4{
+    position: absolute;
+    left: 949px;
+    top: 546px;
+    bottom: 940px;
+}
+.PD_5{
+    position: absolute;
+    left: 189px;
+    top: 876px;
+    bottom: 610px;
+}
+.PD_6{
+    position: absolute;
+    left: 949px;
+    top: 1206px;
+    bottom: 280px;
+}
